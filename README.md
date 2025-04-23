@@ -27,3 +27,8 @@ DOCTYPE html>
   </div>
 </body>
 </html>
+
+/profil GitHub /linkdin.png
+/profil GitHub /Insta.jpeg
+/profil GitHub /IMG_20250404_134120594 1.jpg
+/profil GitHub /Facebook.jpeg
